@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chapman">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapman.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
